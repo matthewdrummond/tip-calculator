@@ -1,10 +1,4 @@
-//
-//  AppDelegate.swift
-//  Calculator
-//
-//  Created by Edgar Gonzalez on 3/28/17.
-//  Copyright © 2017 Edgar Gonzalez. All rights reserved.
-//
+
 import UIKit
 
 @UIApplicationMain
